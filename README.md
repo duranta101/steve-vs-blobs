@@ -1,11 +1,9 @@
 Children with ADHD (Attention Deficit Hyperactivity Disorder) often struggle with focus, impulse control, and adapting to rapidly changing situations. “Steve vs Blobs” is a game I developed featuring Steve from Minecraft. It was inspired by research suggesting that color stimulation can enhance attention and behavioral control in children with ADHD. The game provides a fun and engaging way for players to practice these skills while integrating elements of color therapy. Through interactions with colorful targets and quick decision-making, children can strengthen their attention and self-control in a safe, playful environment.
 
 **Story:** 
-
 Steve is trapped in a 3D arena as colorful Blobs relentlessly close in on him. If a Blob touches Steve, his health drops. He must destroy the Blobs before they reach him. After clearing a wave, a new wave appears. Over time, both the number of Blobs and their speed increase.
 
 **Gameplay:**
-
 Control Steve on a 3D plane using the WASD keys (W to move forward, S to move backward, A to turn left, D to turn right).
 Use the left mouse button to shoot the Blobs and the right mouse button to switch between third-person and first-person camera modes.
 Switch between red, green, and blue paintballs using the 1, 2, and 3 keys to match each Blob’s color.
