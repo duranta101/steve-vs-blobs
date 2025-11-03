@@ -1,4 +1,4 @@
-Children with ADHD (Attention Deficit Hyperactivity Disorder) often struggle with focus, impulse control, and adapting to rapidly changing situations. **Steve vs Blobs** is a game I developed featuring Steve from Minecraft. It was inspired by research suggesting that color stimulation can enhance attention and behavioral control in children with ADHD. The game provides a fun and engaging way for players to practice these skills while integrating elements of color therapy. Through interactions with colorful targets and quick decision-making, children can strengthen their attention and self-control in a safe, playful environment.
+Children with ADHD (Attention Deficit Hyperactivity Disorder) often struggle with focus, impulse control, and adapting to changing situations. **Steve vs Blobs** is a game I developed featuring Steve from Minecraft, inspired by research suggesting that color stimulation can improve attention and behavior in children with ADHD. The game uses colorful targets and quick decision-making to help players practice focus and self-control in a fun, engaging way.
 
 **Story:** 
 
